@@ -7,4 +7,4 @@ Generate a list of items you need from the grocery store. <br/><br/>
 - Sorted alphabetically by item, prefixing each line with the number of times the user inputted that item. <br/><br/>
 
 ## 🧮 Demo
-<img src="" width="">
+<img src="https://github.com/ayahkashif/Grocery-List/blob/main/demo.png" width="349">
